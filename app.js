@@ -1,4 +1,4 @@
-//jshint esversion:6
+//https://pristine-biscayne-35926.herokuapp.com/
 
 const express = require("express");
 const bodyParser = require("body-parser");
